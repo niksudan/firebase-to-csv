@@ -1,6 +1,11 @@
 {
   "name": "ftc",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niksudan/firebase-to-csv"
+  },
+	"license": "MIT",
   "scripts": {
     "build": "npm install && npm link"
   },

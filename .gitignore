@@ -2,3 +2,4 @@
 !package.json
 *.csv
 node_modules
+npm-debug.log
