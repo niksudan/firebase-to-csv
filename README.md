@@ -4,7 +4,7 @@ Convert Firebase JSON data to CSV.
 
 ## Installation
 
-- `npm run build`
+- `npm i -g ftc`
 
 ## Usage
 
