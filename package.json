@@ -1,0 +1,13 @@
+{
+  "name": "ftc",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm install && npm link"
+  },
+  "bin": {
+    "ftc": "./index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
