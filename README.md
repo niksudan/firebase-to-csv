@@ -1,5 +1,7 @@
 # Firebase to CSV
 
+[![npm](https://img.shields.io/npm/v/ftc.svg)](https://www.npmjs.com/package/ftc)
+
 Convert Firebase JSON data to CSV.
 
 ## Installation
